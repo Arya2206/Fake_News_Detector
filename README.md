@@ -1,10 +1,6 @@
 # Fake_News_Detector
 Fake News Detector built with Python, NLP, and Machine Learning. Analyzes news article text, preprocesses data, extracts features using TF-IDF, and classifies news as Fake or Real. Includes model training, evaluation, and prediction capabilities.
-# Fake News Detection
 
-Fake News Detection in Python
-
-In this project, we have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
 
 ## Getting Started
 
@@ -39,9 +35,6 @@ What things you need to install the software and how to install them:
 #### Dataset used
 The data source used for this project is LIAR dataset which contains 3 files with .tsv format for test, train and validation. Below is some description about the data files used for this project.
 	
-LIAR: A BENCHMARK DATASET FOR FAKE NEWS DETECTION
-
-William Yang Wang, "Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection, to appear in Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017), short paper, Vancouver, BC, Canada, July 30-August 4, ACL.
 
 the original dataset contained 13 variables/columns for train, test and validation sets as follows:
 
